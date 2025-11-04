@@ -1,5 +1,7 @@
 elementi:
-  - nome: MCX - Mission Critical Comunications
-    descrizione: "MCX - Mission Critical Comunications"
-  - nome: 3GPP - Ente internazionale per la standardizzazione delle tecnologie relative a MCX
-    descrizione: "3GPP - Ente internazionale per la standardizzazione delle tecnologie relative a MCX"
+  - nome: MCX
+    descrizione: "Mission Critical Comunications"
+  - nome: 3GPP 
+    descrizione: "Ente internazionale per la standardizzazione delle tecnologie relative a MCX"
+  - nome: TETRA
+    descrizione: "Terrestrial Trunked Radio. Standard europeo per comunicazioni Mission Critical"
