@@ -1,6 +1,10 @@
 import streamlit as st
 import yaml
 
+"""
+modificato
+"""
+
 # Funzione per caricare i dati dal file YAML
 def carica_dati(file_path):
     with open(file_path, 'r') as f:
