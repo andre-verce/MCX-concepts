@@ -10,7 +10,7 @@ def carica_dati(file_path):
 dati = carica_dati('dati.yaml')
 
 st.title("Alcuni concetti relativi al mondo delle telecomunicazioni Mission Critical")
-st.subtitle("Vediamo se compare un sottotitolo qua e che aspetto ha")
+st.markdown("### Made with love by £&^!!$")
 
 # Itera sugli elementi e crea un expander per ciascuno
 for elemento in dati['elementi']:
