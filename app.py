@@ -9,7 +9,8 @@ def carica_dati(file_path):
 # Carica i dati
 dati = carica_dati('dati.yaml')
 
-st.title("Tabella con descrizioni espandibili da YAML")
+st.title("Alcuni concetti relativi al mondo delle telecomunicazioni Mission Critical")
+st.subtitle("Vediamo se compare un sottotitolo qua e che aspetto ha")
 
 # Itera sugli elementi e crea un expander per ciascuno
 for elemento in dati['elementi']:
