@@ -7,5 +7,7 @@ elementi:
     descrizione: "Terrestrial Trunked Radio. Standard europeo per comunicazioni Mission Critical"
   - nome: ETSI
     descrizione: "Istituto europeo per le norme di telecomunicazione"
+  - nome: PCRF
+    descrizione: "Policy and Charging Rules Function"
     
     
