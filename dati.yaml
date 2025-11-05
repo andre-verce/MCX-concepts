@@ -5,3 +5,7 @@ elementi:
     descrizione: "Ente internazionale per la standardizzazione delle tecnologie relative a MCX"
   - nome: TETRA
     descrizione: "Terrestrial Trunked Radio. Standard europeo per comunicazioni Mission Critical"
+  - nome: ETSI
+    descrizione: "Istituto europeo per le norme di telecomunicazione"
+    
+    
