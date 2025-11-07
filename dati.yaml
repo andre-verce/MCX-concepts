@@ -9,5 +9,7 @@ elementi:
     descrizione: "Istituto europeo per le norme di telecomunicazione"
   - nome: PCRF
     descrizione: "Policy and Charging Rules Function"
+  - nome: altro_nome
+    descrizione: "Boh"
     
     
